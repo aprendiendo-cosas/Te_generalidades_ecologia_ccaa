@@ -5,7 +5,7 @@
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **_Acceso_**: [https://github.com/fjbonet/generalidades_ecologia/blob/master/guion_generalidades_ecologia.md](https://github.com/fjbonet/generalidades_ecologia/blob/master/guion_generalidades_ecologia.md)
-> + **Duración**: Aproximadamente 1 hora.
+> + **_Duración_**: Aproximadamente 1 hora.
 
 
 
