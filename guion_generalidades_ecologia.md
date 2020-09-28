@@ -1,10 +1,9 @@
 # Guión de la sesión denominada "Conceptos generales de la ecología"
 
 
-> + **_Versión_**: 1.0.
+> + **_Versión_**: v.2019-2020
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
-> + **_Acceso_**: [https://github.com/fjbonet/generalidades_ecologia/blob/master/guion_generalidades_ecologia.md](https://github.com/fjbonet/generalidades_ecologia/blob/master/guion_generalidades_ecologia.md)
 > + **_Duración_**: Aproximadamente 1 hora.
 
 
