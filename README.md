@@ -10,3 +10,4 @@ Este repositorio contiene todo el material utilizado para impartir la sesión de
   + 1_historia_ecologia.xmind: Mapa mental que describe hitos en la historia de la ecología.
   + 2_ecologia_interdependencia.png: Cutre dibujo mostrando el concepto de interdependencia. Dibujado en la tablet conforme se explica.
 + guion_generalidades_ecologia.md: Guión con los aspectos a abordar. Hay enlaces al material suministrado. 
++ guion_generalidades_ecologia.html: Igual que el anterior pero en html.
