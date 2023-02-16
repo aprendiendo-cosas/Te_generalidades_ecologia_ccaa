@@ -35,10 +35,22 @@ En esta sesión seguiremos un hilo argumental con los siguientes pasos:
   
 
 <iframe
-  src="https://rawcdn.githack.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/2021---2022/presentacion/historia_ecologia.html"
+  src="https://rawcdn.githack.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/main/presentacion/historia_ecologia.html"
   style="width:100%; height:450px;"
 ></iframe>
 
+Si te gusta la historia de la ecología, [aquí](https://esajournals.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)2327-6096(CAT)Collections(VI)CollectionsBulletin) tienes mucho material para aprender más. 
+
+
+## Pregunta "bisagra"
+
+Las llamadas pregunta bisagra forman parte de una técnica docente que permite al estudiante tomar conciencia de lo que ha aprendido y también de las posibles dudas que le quedan. Se formulan de manera deliberadamente ambigua para fomentar la reflexión, el pensamiento crítico y la expresión de dudas por parte de los estudiantes.
+
+En esta ocasión, la pregunta bisagra es la siguiente:
+
+> Partiendo de la idea de sistema complejo y de propiedad emergente que hemos visto antes, y teniendo en cuenta que la ecología estudia este tipo de sistemas, ¿dirías que el puente de la foto es un sistema complejo? ¿Por qué?
+
+<img src="https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/raw/main/imagenes/puente_de_alcantara.jpg" alt="image" style="zoom:50%;" />
 
 
 ## Evaluación de la sesión según los estudiantes
@@ -47,7 +59,7 @@ Aquí puedes ver los resultados que, por ahora, arroja [esta](https://docs.googl
 
 
 
-<img src="https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/raw/2021---2022/imagenes/cumplimiento_objetivos.png" alt="image" style="zoom:50%;" />
+<img src="https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/raw/main/imagenes/cumplimiento_objetivos.png" alt="image" style="zoom:50%;" />
 
 
-<img src="https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/raw/2021---2022/imagenes/desempenio_profesor.png" alt="image" style="zoom:50%;" />
+<img src="https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/raw/main/imagenes/desempenio_profesor.png" alt="image" style="zoom:50%;" />
