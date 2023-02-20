@@ -30,12 +30,12 @@ En esta sesión seguiremos un hilo argumental con los siguientes pasos:
   + [Ecological science and sustainability for the 21st century. Palmer, M. et al. 2005](https://github.com/aprendiendo-cosas/generalidades_ecologia_ccaa/raw/main/biblio/Palmer_et_al-2005-Frontiers_in_Ecology_and_the_Environment.pdf)
   + [Aquí y ahora: una llamada al compromiso y la acción. Zamora. R. 2005](https://github.com/aprendiendo-cosas/generalidades_ecologia_ccaa/raw/main/biblio/zamora_2005.pdf)
 
-+ [Mapa mental](https://github.com/aprendiendo-cosas/generalidades_ecologia_ccaa/raw/main/presentacion/historia_ecologia.xmind) que muestra algunos hitos importantes en la historia de la ecología. Durante la descripción de esta historia se va poniendo de manifiesto cómo van surgiendo los distintos conceptos y cómo unos van integrando y trascendiendo a los anteriores. Observamos cómo a lo largo de la historia se han realizado los avances científicos con un esquema parecido al que seguiremos en la asignatura. Es decir, en este curso "copiaremos" el proceso por el cual los seres humanos han ido construyendo la ciencia de la ecología. El mapa mental se abre con el software [xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación o [aquí](https://rawcdn.githack.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/main/presentacion/historia_ecologia.html) en una página externa:
++ [Mapa mental](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/raw/master/presentacion/historia_ecologia.xmind) que muestra algunos hitos importantes en la historia de la ecología. Durante la descripción de esta historia se va poniendo de manifiesto cómo van surgiendo los distintos conceptos y cómo unos van integrando y trascendiendo a los anteriores. Observamos cómo a lo largo de la historia se han realizado los avances científicos con un esquema parecido al que seguiremos en la asignatura. Es decir, en este curso "copiaremos" el proceso por el cual los seres humanos han ido construyendo la ciencia de la ecología. El mapa mental se abre con el software [xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación o [aquí](https://rawcdn.githack.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/c0b433c174fda7e11cc3617d30da7c7fad4b5b10/presentacion/historia_ecologia.html) en una página externa:
 
   
 
 <iframe
-  src="https://rawcdn.githack.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/main/presentacion/historia_ecologia.html"
+  src="https://rawcdn.githack.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/c0b433c174fda7e11cc3617d30da7c7fad4b5b10/presentacion/historia_ecologia.html"
   style="width:100%; height:450px;"
 ></iframe>
 
@@ -50,7 +50,7 @@ En esta ocasión, la pregunta bisagra es la siguiente:
 
 > Partiendo de la idea de sistema complejo y de propiedad emergente que hemos visto antes, y teniendo en cuenta que la ecología estudia este tipo de sistemas, ¿dirías que el puente de la foto es un sistema complejo? ¿Por qué?
 
-<img src="https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/raw/main/imagenes/puente_de_alcantara.jpg" alt="image" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/master/imagenes/puente_de_alcantara.jpg" alt="image" style="zoom:50%;" />
 
 
 ## Evaluación de la sesión según los estudiantes
