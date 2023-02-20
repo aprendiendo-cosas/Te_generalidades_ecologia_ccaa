@@ -53,6 +53,9 @@ En esta ocasión, la pregunta bisagra es la siguiente:
 <img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/master/imagenes/puente_de_alcantara.jpg" alt="image" style="zoom:50%;" />
 
 
+
+
+
 ## Evaluación de la sesión según los estudiantes
 
 Aquí puedes ver los resultados que, por ahora, arroja [esta](https://docs.google.com/forms/d/e/1FAIpQLScbCKaNkzzjV5bH0yek41FO-KS7LtLhT_ilITS_ZR0Z2XJyCA/viewform?usp=sf_link) encuesta sobre grado de satisfacción de los objetivos planteados. Por favor, rellénala si no lo has hecho ya. Se tardan 10 segundos y sus resultados son de gran utilidad para mejorar los contenidos cada año. Gracias.
