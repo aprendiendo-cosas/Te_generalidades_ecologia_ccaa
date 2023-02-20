@@ -61,5 +61,4 @@ Aquí puedes ver los resultados que, por ahora, arroja [esta](https://docs.googl
 
 <img src="https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/raw/main/imagenes/cumplimiento_objetivos.png" alt="image" style="zoom:50%;" />
 
-
 <img src="https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/raw/main/imagenes/desempenio_profesor.png" alt="image" style="zoom:50%;" />
