@@ -30,7 +30,7 @@ En esta sesión seguiremos un hilo argumental con los siguientes pasos:
   
 
 <iframe
-  src="https://rawcdn.githack.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/main/presentacion/historia_ecologia.html"
+  src="https://raw.githack.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/master/presentacion/historia_ecologia.html"
   style="width:100%; height:450px;"
 ></iframe>
 
