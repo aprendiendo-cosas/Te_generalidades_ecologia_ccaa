@@ -54,5 +54,15 @@ En esta ocasión, la pregunta bisagra es la siguiente:
 
 
 
-
++ Paco dice que sí, que es un sistema complejo porque está formado por ladrillos. Y cada ladrillo aporta algo para que el puente no se venga abajo.
++ Marta dice que sí lo es porque este puente es una especie de propiedad emergente que surge de la iniciativa individual de las personas que lo construyeron. 
++ Andrea dice que también lo es porque el puente interactúa con el medio. 
++ Víctor también cree que es un sistema complejo porque para hacerlo han sido necesarios pensamientos previos. 
++ Gloria pone el foco en la planificación que ha sido necesaria tener para hacer una estructura adecuada a la zona. 
++ Alba también lo cree porque está todo interconectado. Interactúa con los seres vivos que hay cerca, beneficia a los humanos de la zona.
++ Lucía ha caído en que los puentes no se autoregeneran. Por eso no cree que sea un sistema tan complejo. 
++ Pablo dice que hay hormigones que se autorreparan, así que en ese caso sí sería un sistema complejo. 
++ Esteban se ha pasado el juego diciendo que nosotros somos al puente lo que nuestras células a nosotros. Ellas nos reparan y nosotros lo reparamos a él. 
++ Pepe incorpora la idea de que un puente se autorregenera cambiando su identidad a lo largo del tiempo. Primero es de madera, luego de ladrillos, etc.
++ Pablo Salazar dice que esto forma parte de una vsión capacitista de la realidad. solo le damos valor cuando cumplen una función. Solo cuando interconectan dos trozos de tierra, automa´ticamente ganan un valor. En la sociedad capitalista que tenemos, pasa esto mucho. Si las personas son discapacitadas, ya no tienen valor. Si esto le pasara al puente, perdería su puente. El puente por sí solo no es un sistema complejo, sino que lo crea a través de su función. Lo que hace es más importante para nosotros que lo que es. 
 
