@@ -21,24 +21,24 @@ Se trata de la primera sesión teórica de la asignatura. Tiene los siguientes o
 En esta sesión seguiremos un hilo argumental con los siguientes pasos:
 + Ejercicio con dos preguntas (no calificables) para que los estudiantes conciencia del conocimiento que tienen de ecología al iniciar la asignatura. Las dos preguntas se muestran en [este](https://docs.google.com/forms/d/e/1FAIpQLSfowHXCmWr7icMaLpv2k3CjRxE6RgxQ38d9fi_vr_x6ZhMf4g/viewform?usp=sf_link) formulario. Si prefieres hacer el ejercicio escribiendo a mano, envíame después los resultados por correo a fjbonet@uco.es.
 
-+ Después de este contacto con lo que ya sabemos, describimos el plan docente que seguiremos en la asignatura. Se trata de explicitar el recorrido que nos permitirá abordar preguntas complejas como las siguientes: ¿Cómo funcionan los ecosistemas?,  ¿Cómo podemos gestionarlos de forma sostenible?. Para guiar la explicación se usa una presentación dinámica que se puede ver a continuación. También se puede descargar [aquí](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/raw/master/presentacion/plan_docente_ecologia_ccaa_2023_2024.pdf) en formato pdf, [aquí](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/raw/master/presentacion/plan_docente_ecologia_ccaa_2023_2024.zip) de forma dinámica para Mac y [aquí](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/raw/master/presentacion/plan_docente_ecologia_ccaa_2023_2024.exe) para Windows. En este recorrido describiremos las distintas actividades docentes y los ejercicios que los estudiantes tendrán que entregas para obtener una calificación.
++ Después de este contacto con lo que ya sabemos, describimos el plan docente que seguiremos en la asignatura. Se trata de explicitar el recorrido que nos permitirá abordar preguntas complejas como las siguientes: ¿Cómo funcionan los ecosistemas?,  ¿Cómo podemos gestionarlos de forma sostenible?. Para guiar la explicación se usa una presentación dinámica que se puede ver a continuación. También se puede descargar [aquí](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/raw/2023_2024/presentacion/plan_docente_ecologia_ccaa_2023_2024.pdf) en formato pdf, [aquí](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/raw/2023_2024/presentacion/plan_docente_ecologia_ccaa_2023_2024.zip) de forma dinámica para Mac y [aquí](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/raw/2023_2024/presentacion/plan_docente_ecologia_ccaa_2023_2024.exe) para Windows. En este recorrido describiremos las distintas actividades docentes y los ejercicios que los estudiantes tendrán que entregas para obtener una calificación.
 
 <iframe src="https://prezi.com/p/embed/sypl3XrmcTTpbikio8B1/" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen" height="415" width="738"></iframe>
 
-+ [Mapa mental](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/raw/master/presentacion/historia_ecologia.xmind) que muestra algunos hitos importantes en la historia de la ecología. Durante la descripción de esta historia se va poniendo de manifiesto cómo van surgiendo los distintos conceptos y cómo unos van integrando y trascendiendo a los anteriores. Observamos cómo a lo largo de la historia se han realizado los avances científicos con un esquema parecido al que seguiremos en la asignatura. Es decir, en este curso "copiaremos" el proceso por el cual los seres humanos han ido construyendo la ciencia de la ecología. El mapa mental se abre con el software [xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación o [aquí](https://rawcdn.githack.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/master/presentacion/historia_ecologia.html) en una página externa:
++ [Mapa mental](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/raw/2023_2024/presentacion/historia_ecologia.xmind) que muestra algunos hitos importantes en la historia de la ecología. Durante la descripción de esta historia se va poniendo de manifiesto cómo van surgiendo los distintos conceptos y cómo unos van integrando y trascendiendo a los anteriores. Observamos cómo a lo largo de la historia se han realizado los avances científicos con un esquema parecido al que seguiremos en la asignatura. Es decir, en este curso "copiaremos" el proceso por el cual los seres humanos han ido construyendo la ciencia de la ecología. El mapa mental se abre con el software [xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación o [aquí](https://rawcdn.githack.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/2023_2024/presentacion/historia_ecologia.html) en una página externa:
 
   
 
 <iframe
-  src="https://raw.githack.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/master/presentacion/historia_ecologia.html"
+  src="https://raw.githack.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/2023_2024/presentacion/historia_ecologia.html"
   style="width:100%; height:450px;"
 ></iframe>
 
 Si te gusta la historia de la ecología, [aquí](https://esajournals.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)2327-6096(CAT)Collections(VI)CollectionsBulletin) tienes mucho material para aprender más. 
 
 Por último, aquí tenéis dos artículos científicos que describen algunos de los principales retos a los que se enfrenta la ecología en el siglo XXI:
-  + [Ecological science and sustainability for the 21st century. Palmer, M. et al. 2005](https://github.com/aprendiendo-cosas/generalidades_ecologia_ccaa/raw/master/biblio/Palmer_et_al-2005-Frontiers_in_Ecology_and_the_Environment.pdf)
-  + [Aquí y ahora: una llamada al compromiso y la acción. Zamora. R. 2005](https://github.com/aprendiendo-cosas/generalidades_ecologia_ccaa/raw/master/biblio/zamora_2005.pdf)
+  + [Ecological science and sustainability for the 21st century. Palmer, M. et al. 2005](https://github.com/aprendiendo-cosas/generalidades_ecologia_ccaa/raw/2023_2024/biblio/Palmer_et_al-2005-Frontiers_in_Ecology_and_the_Environment.pdf)
+  + [Aquí y ahora: una llamada al compromiso y la acción. Zamora. R. 2005](https://github.com/aprendiendo-cosas/generalidades_ecologia_ccaa/raw/2023_2024/biblio/zamora_2005.pdf)
 
 ## Pregunta "bisagra"
 
@@ -48,21 +48,42 @@ En esta ocasión, la pregunta bisagra es la siguiente:
 
 > Partiendo de la idea de sistema complejo y de propiedad emergente que hemos visto antes, y teniendo en cuenta que la ecología estudia este tipo de sistemas, ¿dirías que el puente de la foto es un sistema complejo? ¿Por qué?
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/master/imagenes/puente_de_alcantara.jpg" alt="image" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/2023_2024/imagenes/puente_de_alcantara.jpg" alt="image" style="zoom:50%;" />
 
 
 
 
 
-+ Paco dice que sí, que es un sistema complejo porque está formado por ladrillos. Y cada ladrillo aporta algo para que el puente no se venga abajo.
-+ Marta dice que sí lo es porque este puente es una especie de propiedad emergente que surge de la iniciativa individual de las personas que lo construyeron. 
-+ Andrea dice que también lo es porque el puente interactúa con el medio. 
-+ Víctor también cree que es un sistema complejo porque para hacerlo han sido necesarios pensamientos previos. 
-+ Gloria pone el foco en la planificación que ha sido necesaria tener para hacer una estructura adecuada a la zona. 
-+ Alba también lo cree porque está todo interconectado. Interactúa con los seres vivos que hay cerca, beneficia a los humanos de la zona.
-+ Lucía ha caído en que los puentes no se autoregeneran. Por eso no cree que sea un sistema tan complejo. 
-+ Pablo dice que hay hormigones que se autorreparan, así que en ese caso sí sería un sistema complejo. 
-+ Esteban se ha pasado el juego diciendo que nosotros somos al puente lo que nuestras células a nosotros. Ellas nos reparan y nosotros lo reparamos a él. 
-+ Pepe incorpora la idea de que un puente se autorregenera cambiando su identidad a lo largo del tiempo. Primero es de madera, luego de ladrillos, etc.
-+ Pablo Salazar dice que esto forma parte de una vsión capacitista de la realidad. solo le damos valor cuando cumplen una función. Solo cuando interconectan dos trozos de tierra, automa´ticamente ganan un valor. En la sociedad capitalista que tenemos, pasa esto mucho. Si las personas son discapacitadas, ya no tienen valor. Si esto le pasara al puente, perdería su puente. El puente por sí solo no es un sistema complejo, sino que lo crea a través de su función. Lo que hace es más importante para nosotros que lo que es. 
++ Comentarios de los estudiantes:
+
+  + Paco dice que sí, que es un sistema complejo porque está formado por ladrillos. Y cada ladrillo aporta algo para que el puente no se venga abajo.
+
+  + Marta dice que sí lo es porque este puente es una especie de propiedad emergente que surge de la iniciativa individual de las personas que lo construyeron. 
+
+  + Andrea dice que también lo es porque el puente interactúa con el medio. 
+
+  + Víctor también cree que es un sistema complejo porque para hacerlo han sido necesarios pensamientos previos. 
+
+  + Gloria pone el foco en la planificación que ha sido necesaria tener para hacer una estructura adecuada a la zona. 
+
+  + Alba también lo cree porque está todo interconectado. Interactúa con los seres vivos que hay cerca, beneficia a los humanos de la zona.
+
+  + Lucía ha caído en que los puentes no se autoregeneran. Por eso no cree que sea un sistema tan complejo. 
+
+  + Pablo dice que hay hormigones que se autorreparan, así que en ese caso sí sería un sistema complejo. 
+
+  + Esteban se ha pasado el juego diciendo que nosotros somos al puente lo que nuestras células a nosotros. Ellas nos reparan y nosotros lo reparamos a él. 
+
+  + Pepe incorpora la idea de que un puente se autorregenera cambiando su identidad a lo largo del tiempo. Primero es de madera, luego de ladrillos, etc.
+
+  + Pablo Salazar (en realidad no es un estudiante, sino un compañero investigador que asiste amablemente a esta clase) dice que esto forma parte de una visión capacitista de la realidad. solo le damos valor cuando cumplen una función. Solo cuando interconectan dos trozos de tierra, automáticamente ganan un valor. En la sociedad capitalista que tenemos, pasa esto mucho. Si las personas son discapacitadas, ya no tienen valor. Si esto le pasara al puente, perdería su valor. El puente por sí solo no es un sistema complejo, sino que lo crea a través de su función. Lo que hace es más importante para nosotros que lo que es. 
+
+  + Marta, al final de la clase, cuando ya habíamos terminado, ata cabos en su cabeza y me dice algo así: "entiendo que la regeneración podría ser una propiedad emergente al igual que lo es el pensamiento. Lo que no entiendo es cómo a partir del funcionamien autónomo de miles de neuronas, por ejemplo, surge el conocimiento. ¿me lo explicas de nuevo?" 
+
++ Comentarios del profesor:
+  + En general creo que habéis demostrado una gran capacidad de reflexión con este ejercicio. Me habéis sorprendido muy positivamente. Creo que nos lo vamos a pasar muy bien juntos en este cuatrimestre :)
+
+  + De forma más particular, vuestras reflexiones se han ido un poco del lugar al que yo quería llevaros. No pasa nada. Hemos aprendido todos en el proceso. Lo que habéis hecho básicamente es poner el foco no solo en el puente sino también en el contexto social en el que se integra. En ese sentido el puente es, como vosotros decís, un sistema complejo. Para cumplir los objetivos de la asignatura tendremos que hacer un ejercicio muy común en ciencia: reducir la dimensionalidad de un problema y poner el foco en un aspecto concreto del mismo. Aprenderemos a hacerlo. Por ahora no le daremos más vueltas al concepto de sistema complejo. Os dejaré con esa agridulce sensación de tener algo en la punta de la lengua... Aunque no será por mucho tiempo, volveremos pronto aquí. 
+  
+  + Quiero también poner el foco en el comentario que hizo Marta al final de la clase. Está en el último punto del bloque anterior. La clave de este comentario es que Marta ha entendido lo que no entendemos. No entendemos completamente cómo se generan las propiedades emergentes de los sistemas complejos. Sí sabemos que existen y hasta podemos enumerarlas, pero no sabemos cómo el funcionamiento autónomo de muchos elementos "tontos" generan comportamientos "inteligentes".
 
