@@ -35,14 +35,23 @@ En esta sesión seguiremos un hilo argumental con los siguientes pasos:
   src="https://raw.githack.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/2024_2025/presentacion/historia_ecologia.html"
   style="width:100%; height:450px;"
 ></iframe>
+Para apoyar la información anterior sobre la historia de la ecología, en el siguiente vídeo puedes ver una clase sobre la misma. Es del curso 20-21. El material expuesto aquí es solo una guía sobre los conceptos clave de la historia de la ecología.
+
+
+
+<iframe width="560" height="415" src="https://www.youtube.com/embed/TqPveBFbNOA?si=CO_IViXoGynMV7hS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 Si te gusta la historia de la ecología, [aquí](https://esajournals.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)2327-6096(CAT)Collections(VI)CollectionsBulletin) tienes mucho material para aprender más. 
 
-Por último, aquí tenéis dos artículos científicos que describen algunos de los principales retos a los que se enfrenta la ecología en el siglo XXI:
+
+
++ Por último, aquí tenéis dos artículos científicos que describen algunos de los principales retos a los que se enfrenta la ecología en el siglo XXI:
+
   + [Ecological science and sustainability for the 21st century. Palmer, M. et al. 2005](https://github.com/aprendiendo-cosas/generalidades_ecologia_ccaa/raw/2024_2025/biblio/Palmer_et_al-2005-Frontiers_in_Ecology_and_the_Environment.pdf)
+
   + [Aquí y ahora: una llamada al compromiso y la acción. Zamora. R. 2005](https://github.com/aprendiendo-cosas/generalidades_ecologia_ccaa/raw/2024_2025/biblio/zamora_2005.pdf)
-
-
 
 
 
