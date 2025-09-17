@@ -21,11 +21,43 @@ Se trata de la primera sesión teórica de la asignatura. Tiene los siguientes o
 
  ## Contenidos
 En esta sesión seguiremos un hilo argumental con los siguientes pasos:
-+ Salida al césped central del campus. Allí hablaremos sobre lo que vemos. Trataremos de simular que ya tenemos unas gafas con visión ecológica. 
 
-+ Después de este contacto con lo que ya sabemos, describimos el plan docente que seguiremos en la asignatura. Se trata de explicitar el recorrido que nos permitirá abordar preguntas complejas como las siguientes: ¿Cómo funcionan los ecosistemas?,  ¿Cómo podemos gestionarlos de forma sostenible?. Para guiar la explicación se usa una presentación dinámica que se puede ver a continuación. También se puede descargar [aquí](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/raw/master/presentacion/plan_docente_ecologia_ccaa_2025_2026.pdf) en formato pdf, [aquí](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/raw/master/presentacion/plan_docente_ecologia_ccaa_2024_2025.zip) de forma dinámica para Mac y [aquí](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/raw/master/presentacion/plan_docente_ecologia_ccaa_2025_2026.exe) para Windows. En este recorrido describiremos las distintas actividades docentes y los ejercicios que los estudiantes tendrán que entregas para obtener una calificación.
+### Plan docente de la asignatura
+En primer lugar describimos el plan docente que seguiremos en la asignatura. Se trata de explicitar el recorrido que nos permitirá abordar preguntas complejas como las siguientes: ¿Cómo funcionan los ecosistemas?,  ¿Cómo podemos gestionarlos de forma sostenible?. Para guiar la explicación se usa una presentación dinámica que se puede ver a continuación. También se puede descargar [aquí](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/raw/master/presentacion/plan_docente_ecologia_ccaa_2025_2026.pdf) en formato pdf, [aquí](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/raw/master/presentacion/plan_docente_ecologia_ccaa_2024_2025.zip) de forma dinámica para Mac y [aquí](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/raw/master/presentacion/plan_docente_ecologia_ccaa_2025_2026.exe) para Windows. En este recorrido describiremos las distintas actividades docentes y los ejercicios que los estudiantes tendrán que entregas para obtener una calificación.
 
 <iframe src="https://prezi.com/p/embed/rzXO92AFRE1oaq1DIRT7/" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen" height="415" width="738"></iframe>
+
+### Breve salida al césped central del campus
+Después de explicar el plan docente salimos brevemente al campo de césped que hay en la parte central del campus de Rabanales. Allí tratamos de hacer una interpretación con la mirada de la ecología. Todavía no tenemos unas gafas potentes, pero nos sirven para probarnos a nosotros mismos.
+
+Ante la pregunta de ¿qué véis aquí?, surgen varios hilos interesantes:
+
+> Un lugar con poca diversidad
+
+La primera respuesta incide en una propiedad compleja de las comunidades ecológicas. Salta a la vista que el césped es poco diverso. Hay pocos elementos (especies) diferentes.
+
+> El suelo es importante
+
+Esto nos lleva a hablar de los factores que explican que aquí tengamos césped.
+- riego artificial
+
+¿qué habría aquí si no hubiera riego?
+- Seguramente vegetación menos frondosa. Algunos árboles y matorrales.
+- área de distribución o nicho de una especie. Aquí hay césped porque gracias al riego creamos un nicho artificial para el césped
+
+Vamos complicando un poco la cosa con esta pregunta: ¿qué pasaría si llegara un insecto especialmente adaptado a comer césped?
+
+- invasora
+- arrasa todo
+
+¿Y si hubiera una mezcla del césped con otras plantas?
+- La mayoría creen que eso retrasaría la devastación del césped.
+- Algunos dicen que las otras plantas podrían ser hogar de animales que se alimenten del insecto que depreda el césped.
+- una estudiante dice que al incluir otras especies, quedaría menos espacio para el césped y que eso haría que desapareciera antes
+
+
+
+
 
 + [Mapa mental](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/raw/2024_2025/presentacion/historia_ecologia.xmind) que muestra algunos hitos importantes en la historia de la ecología. Durante la descripción de esta historia se va poniendo de manifiesto cómo van surgiendo los distintos conceptos y cómo unos van integrando y trascendiendo a los anteriores. Observamos cómo a lo largo de la historia se han realizado los avances científicos con un esquema parecido al que seguiremos en la asignatura. Es decir, en este curso "copiaremos" el proceso por el cual los seres humanos han ido construyendo la ciencia de la ecología. El mapa mental se abre con el software [xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación o [aquí](https://rawcdn.githack.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/2024_2025/presentacion/historia_ecologia.html) en una página externa:
 
@@ -35,12 +67,6 @@ En esta sesión seguiremos un hilo argumental con los siguientes pasos:
   src="https://raw.githack.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/2024_2025/presentacion/historia_ecologia.html"
   style="width:100%; height:450px;"
 ></iframe>
-Para apoyar la información anterior sobre la historia de la ecología, en el siguiente vídeo puedes ver una clase sobre la misma. Es del curso 20-21. El material expuesto aquí es solo una guía sobre los conceptos clave de la historia de la ecología.
-
-
-
-<iframe width="560" height="415" src="https://www.youtube.com/embed/TqPveBFbNOA?si=CO_IViXoGynMV7hS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 
 
 Si te gusta la historia de la ecología, [aquí](https://esajournals.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)2327-6096(CAT)Collections(VI)CollectionsBulletin) tienes mucho material para aprender más. 
@@ -52,6 +78,14 @@ Si te gusta la historia de la ecología, [aquí](https://esajournals.onlinelibra
   + [Ecological science and sustainability for the 21st century. Palmer, M. et al. 2005](https://github.com/aprendiendo-cosas/generalidades_ecologia_ccaa/raw/2024_2025/biblio/Palmer_et_al-2005-Frontiers_in_Ecology_and_the_Environment.pdf)
 
   + [Aquí y ahora: una llamada al compromiso y la acción. Zamora. R. 2005](https://github.com/aprendiendo-cosas/generalidades_ecologia_ccaa/raw/2024_2025/biblio/zamora_2005.pdf)
+
+## Grabación de esta sesión
+
+Para apoyar la información anterior sobre la historia de la ecología, en el siguiente vídeo puedes ver una clase sobre la misma. Es del curso 20-21. El material expuesto aquí es solo una guía sobre los conceptos clave de la historia de la ecología.
+
+
+
+<iframe width="560" height="415" src="https://www.youtube.com/embed/TqPveBFbNOA?si=CO_IViXoGynMV7hS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
