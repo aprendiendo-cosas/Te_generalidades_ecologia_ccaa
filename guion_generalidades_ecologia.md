@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **_Duración_**: 2 horas (1 en casa y 1 en clase)
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/2024_2025/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/2025_2026/imagenes/portada.png)
 
 
 
@@ -23,7 +23,7 @@ Se trata de la primera sesión teórica de la asignatura. Tiene los siguientes o
 En esta sesión seguiremos un hilo argumental con los siguientes pasos:
 
 ### Plan docente de la asignatura
-En primer lugar describimos el plan docente que seguiremos en la asignatura. Se trata de explicitar el recorrido que nos permitirá abordar preguntas complejas como las siguientes: ¿Cómo funcionan los ecosistemas?,  ¿Cómo podemos gestionarlos de forma sostenible?. Para guiar la explicación se usa una presentación dinámica que se puede ver a continuación. También se puede descargar [aquí](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/raw/master/presentacion/plan_docente_ecologia_ccaa_2025_2026.pdf) en formato pdf, [aquí](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/raw/master/presentacion/plan_docente_ecologia_ccaa_2024_2025.zip) de forma dinámica para Mac y [aquí](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/raw/master/presentacion/plan_docente_ecologia_ccaa_2025_2026.exe) para Windows. En este recorrido describiremos las distintas actividades docentes y los ejercicios que los estudiantes tendrán que entregas para obtener una calificación.
+En primer lugar describimos el plan docente que seguiremos en la asignatura. Se trata de explicitar el recorrido que nos permitirá abordar preguntas complejas como las siguientes: ¿Cómo funcionan los ecosistemas?,  ¿Cómo podemos gestionarlos de forma sostenible?. Para guiar la explicación se usa una presentación dinámica que se puede ver a continuación. También se puede descargar [aquí](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/raw/master/presentacion/plan_docente_ecologia_ccaa_2025_2026.pdf) en formato pdf, [aquí](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/raw/master/presentacion/plan_docente_ecologia_ccaa_2025_2026.zip) de forma dinámica para Mac y [aquí](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/raw/master/presentacion/plan_docente_ecologia_ccaa_2025_2026.exe) para Windows. En este recorrido describiremos las distintas actividades docentes y los ejercicios que los estudiantes tendrán que entregas para obtener una calificación.
 
 <iframe src="https://prezi.com/p/embed/rzXO92AFRE1oaq1DIRT7/" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen" height="415" width="738"></iframe>
 
@@ -32,39 +32,40 @@ Después de explicar el plan docente salimos brevemente al campo de césped que 
 
 Ante la pregunta de ¿qué véis aquí?, surgen varios hilos interesantes:
 
-> Un lugar con poca diversidad
++ Un lugar con poca diversidad
 
 La primera respuesta incide en una propiedad compleja de las comunidades ecológicas. Salta a la vista que el césped es poco diverso. Hay pocos elementos (especies) diferentes.
 
-> El suelo es importante
++ El suelo es importante
 
-Esto nos lleva a hablar de los factores que explican que aquí tengamos césped.
-- riego artificial
+Esto nos lleva a hablar de los factores que explican que aquí tengamos césped:
++ Riego artificial. Esto nos conecta con la importancia que tienen los factores abióticos en la estructura y funcionamiento de los ecosistemas.
 
-¿qué habría aquí si no hubiera riego?
-- Seguramente vegetación menos frondosa. Algunos árboles y matorrales.
-- área de distribución o nicho de una especie. Aquí hay césped porque gracias al riego creamos un nicho artificial para el césped
+El comentario sobre el riego, me lleva a preguntar:  ¿qué habría aquí si no hubiera riego?
+Las respuestas son valiosas:
++ Seguramente vegetación menos frondosa. Algunos árboles y matorrales. De aquí inferimos el concepto de área de distribución o nicho de una especie. Si no hubiera riego, vivirían aquí otras especies más adaptadas a las condiciones ambientales de la zona. Se crea una especie de nicho artificial con el riego. 
 
 Vamos complicando un poco la cosa con esta pregunta: ¿qué pasaría si llegara un insecto especialmente adaptado a comer césped?
 
-- invasora
-- arrasa todo
++ Una primera respuesta nos lleva a las especies invasorsa. Aunque no es el caso del ejemplo, resulta interesante que surga este concepto.
++ La respuesta generalizada es que esa especie de insecto lo arrasaría todo. Parece fácil inferior que en un lugar con poca diversidad es fácil que un depredador (herbívoro en este caso) acceda sin problema a todos los recursos que necesite. 
 
 ¿Y si hubiera una mezcla del césped con otras plantas?
-- La mayoría creen que eso retrasaría la devastación del césped.
-- Algunos dicen que las otras plantas podrían ser hogar de animales que se alimenten del insecto que depreda el césped.
-- una estudiante dice que al incluir otras especies, quedaría menos espacio para el césped y que eso haría que desapareciera antes
++ La mayoría creen que eso retrasaría la devastación del césped. La presencia de otras plantas podría albergar especies animales que se alimentaran del insecto que come césped.
++ Una estudiante dice que al incluir otras especies, quedaría menos espacio para el césped y que eso haría que desapareciera antes. Es una respuesta incorrecta aunque muy intuitiva. Es cierto que hay menos césped disponible y eso haría que fuera consumido antes por el depredador. Pero también es cierto que, al aumentar la heterogeneidad del medio, aumenta la dificultad para el insecto de acceder al césped disponible.
 
+Ha sido una experiencia interesante que intentaremos repetir a final de curso con objeto de comprobar lo que hemos aprendido. 
 
+### Historia de la ecología
 
+Resulta interesante estudiar la historia de nuestra disciplina. No solo por conocer cómo ha evolucionado a lo largo del tiempo. También es útil porque en nuestra asignatura copiaremos el avance de esta ciencia a lo largo de la historia. De alguna forma, nuestro proceso de aprendizaje individual repite la forma en la que los humanos aprendimos esta disciplina.
 
-
-+ [Mapa mental](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/raw/2024_2025/presentacion/historia_ecologia.xmind) que muestra algunos hitos importantes en la historia de la ecología. Durante la descripción de esta historia se va poniendo de manifiesto cómo van surgiendo los distintos conceptos y cómo unos van integrando y trascendiendo a los anteriores. Observamos cómo a lo largo de la historia se han realizado los avances científicos con un esquema parecido al que seguiremos en la asignatura. Es decir, en este curso "copiaremos" el proceso por el cual los seres humanos han ido construyendo la ciencia de la ecología. El mapa mental se abre con el software [xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación o [aquí](https://rawcdn.githack.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/2024_2025/presentacion/historia_ecologia.html) en una página externa:
++ [Mapa mental](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/raw/2025_2026/presentacion/historia_ecologia.xmind) que muestra algunos hitos importantes en la historia de la ecología. Durante la descripción de esta historia se va poniendo de manifiesto cómo van surgiendo los distintos conceptos y cómo unos van integrando y trascendiendo a los anteriores. Observamos cómo a lo largo de la historia se han realizado los avances científicos con un esquema parecido al que seguiremos en la asignatura. Es decir, en este curso "copiaremos" el proceso por el cual los seres humanos han ido construyendo la ciencia de la ecología. El mapa mental se abre con el software [xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación o [aquí](https://rawcdn.githack.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/2025_2026/presentacion/historia_ecologia.html) en una página externa:
 
   
 
 <iframe
-  src="https://raw.githack.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/2024_2025/presentacion/historia_ecologia.html"
+  src="https://raw.githack.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/2025_2026/presentacion/historia_ecologia.html"
   style="width:100%; height:450px;"
 ></iframe>
 
@@ -75,9 +76,9 @@ Si te gusta la historia de la ecología, [aquí](https://esajournals.onlinelibra
 
 + Por último, aquí tenéis dos artículos científicos que describen algunos de los principales retos a los que se enfrenta la ecología en el siglo XXI:
 
-  + [Ecological science and sustainability for the 21st century. Palmer, M. et al. 2005](https://github.com/aprendiendo-cosas/generalidades_ecologia_ccaa/raw/2024_2025/biblio/Palmer_et_al-2005-Frontiers_in_Ecology_and_the_Environment.pdf)
+  + [Ecological science and sustainability for the 21st century. Palmer, M. et al. 2005](https://github.com/aprendiendo-cosas/generalidades_ecologia_ccaa/raw/2025_2026/biblio/Palmer_et_al-2005-Frontiers_in_Ecology_and_the_Environment.pdf)
 
-  + [Aquí y ahora: una llamada al compromiso y la acción. Zamora. R. 2005](https://github.com/aprendiendo-cosas/generalidades_ecologia_ccaa/raw/2024_2025/biblio/zamora_2005.pdf)
+  + [Aquí y ahora: una llamada al compromiso y la acción. Zamora. R. 2005](https://github.com/aprendiendo-cosas/generalidades_ecologia_ccaa/raw/2025_2026/biblio/zamora_2005.pdf)
 
 ## Grabación de esta sesión
 
