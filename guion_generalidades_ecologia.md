@@ -6,11 +6,11 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **_Duración_**: 2 horas (1 en casa y 1 en clase)
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/2026_2027/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/2025_2026/imagenes/portada.png)
 
+[TOC]
 
-
-## Objetivos 
+## 1 Objetivos 
 
 Se trata de la primera sesión teórica de la asignatura. Tiene los siguientes objetivos:
 
@@ -20,22 +20,21 @@ Se trata de la primera sesión teórica de la asignatura. Tiene los siguientes o
 + Contextualizar la ecología históricamente: Conocer cómo los científicos fueron aprendiendo la importancia de las relaciones en la naturaleza es recorrer un camino parecido al que recorreremos durante la asignatura. Este objetivo se abordará en casa por parte de los estudiantes a partir del material suministrado y de otros existentes.
 + Enfrentarse por primera vez a la interpretación del territorio con la mirada de la ecología. 
 
- ## Contenidos
-En esta sesión seguiremos un hilo argumental con los siguientes pasos:
 
-### Plan docente de la asignatura
+
+## 2 Plan docente de la asignatura
 En primer lugar describimos el plan docente que seguiremos en la asignatura. Se trata de explicitar el recorrido que nos permitirá abordar preguntas complejas como las siguientes: ¿Cómo funcionan los ecosistemas?,  ¿Cómo podemos gestionarlos de forma sostenible?. Para guiar la explicación se usa una presentación dinámica que se puede ver a continuación. También se puede descargar [aquí](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/raw/master/presentacion/plan_docente_ecologia_ccaa_2026_2027.pdf) en formato pdf, [aquí](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/raw/master/presentacion/plan_docente_ecologia_ccaa_2026_2027.zip) de forma dinámica para Mac y [aquí](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/raw/master/presentacion/plan_docente_ecologia_ccaa_2026_2027.exe) para Windows. En este recorrido describiremos las distintas actividades docentes y los ejercicios que los estudiantes tendrán que entregas para obtener una calificación.
 
 <iframe src="https://prezi.com/p/embed/gVptw78l1nN3k3sK0WRJ/" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen" height="415" width="560"></iframe>
 
-### Breve salida al césped central del campus
+## 3 Breve salida al césped central del campus
 Después de explicar el plan docente salimos brevemente al campo de césped que hay en la parte central del campus de Rabanales. Allí tratamos de hacer una interpretación con la mirada de la ecología. Todavía no tenemos unas gafas potentes, pero nos sirven para probarnos a nosotros mismos.
 
 Esta parte se completará después de hacer la actividad...
 
 
 
-### Historia de la ecología
+## 4 Historia de la ecología
 
 Resulta interesante estudiar la historia de nuestra disciplina. No solo por conocer cómo ha evolucionado a lo largo del tiempo. También es útil porque en nuestra asignatura copiaremos el avance de esta ciencia a lo largo de la historia. De alguna forma, nuestro proceso de aprendizaje individual repite la forma en la que los humanos aprendimos esta disciplina.
 
@@ -59,7 +58,7 @@ Si te gusta la historia de la ecología, [aquí](https://esajournals.onlinelibra
 
   + [Aquí y ahora: una llamada al compromiso y la acción. Zamora. R. 2005](https://github.com/aprendiendo-cosas/generalidades_ecologia_ccaa/raw/2025_2026/biblio/zamora_2005.pdf)
 
-## Grabación de esta sesión
+
 
 Para apoyar la información anterior sobre la historia de la ecología, en el siguiente vídeo puedes ver una clase sobre la misma. Es del curso 20-21. El material expuesto aquí es solo una guía sobre los conceptos clave de la historia de la ecología.
 
@@ -76,6 +75,11 @@ Para apoyar la información anterior sobre la historia de la ecología, en el si
 ****
 
 Haz click [aquí](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
+
+****
+
+[Aquí](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/blob/2026_2027/notas_imparticion_Te_generalidades_ecologia_ccaa.md) puedes ver las notas que tomó el profesor una vez que se impartió la clase.
+
 
 ****
  <p xmlns:cc="http://creativecommons.org/ns#" >El contenido de este repositorio se puede utilizar bajo la siguiente licencia:  <a  href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"  target="_blank" rel="license noopener noreferrer"  style="display:inline-block;">CC BY-NC-SA 4.0<img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"  alt=""></a></p> 
