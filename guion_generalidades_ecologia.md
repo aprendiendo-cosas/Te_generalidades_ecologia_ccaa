@@ -27,7 +27,58 @@ En primer lugar describimos el plan docente que seguiremos en la asignatura. Se 
 
 <iframe src="https://prezi.com/p/embed/gVptw78l1nN3k3sK0WRJ/" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen" height="415" width="560"></iframe>
 
+El propósito central que nos planteamos en esta asignatura es llegar a entender cómo funcionan los ecosistemas. Sin embargo, para entender cómo funciona un sistema complejo, primero tenemos que saber qué es y de qué piezas está hecho. Además, aunque la gestión y el uso sostenible de estos sistemas serán el objeto central de la asignatura del segundo cuatrimestre, este curso nos aportará los cimientos teóricos y metodológicos indispensables para ese fin.
+
+Antes de arrancar este recorrido, debemos asumir una advertencia conceptual de partida: buena parte de las entidades que vamos a estudiar no existen en la naturaleza de forma tangible. Cuando salimos al campo, lo único verdaderamente discreto y tangible son los individuos (un ave, una planta, una bacteria); conceptos como «población», «comunidad» o «ciclo biogeoquímico» son modelos y abstracciones que hemos construido para ordenar y entender el funcionamiento del mundo natural.
+
+Para avanzar, utilizaremos una dinámica de integración progresiva: empezaremos por niveles organizativos más concretos y, a medida que sus herramientas analíticas se nos queden cortas para explicar la realidad, daremos el salto al siguiente escalón conceptual. Usaremos los siguientes niveles jerárquicos:
+
+### 2.1. El primer escalón: la ecología de poblaciones
+
+Para cumplir los objetivos que nos planteamos, empezaremos estudiando las poblaciones ecológicas. Este primer nivel implica comprender sus propiedades o descriptores más importantes: la densidad, la distribución en el espacio, las tasas de natalidad y mortalidad, y la estructura de edades. Analizaremos cómo crecen a través de modelos matemáticos (tanto exponencial como logístico) y veremos cómo estos conceptos se trasladan a problemas reales, como la asignación rigurosa de categorías de amenaza a especies en peligro.
+
+A renglón seguido, abordaremos la competencia intraespecífica y las dinámicas dependientes de la densidad. Esto nos llevará a entender las bases biológicas de la explotación sostenible de biomasa: cómo podemos extraer individuos de una población (en pesca, caza, agricultura o aprovechamiento forestal) mediante modelos como el rendimiento máximo sostenible sin comprometer su persistencia.
+
+### 2.2. El espacio entra en juego: metapoblaciones
+
+Pronto comprobaremos que tratar a las poblaciones como unidades aisladas en un espacio homogéneo resulta insuficiente. Por eso, el siguiente paso será abordar las metapoblaciones: conjuntos de subpoblaciones discretas que habitan fragmentos de hábitat y que se encuentran interconectadas mediante flujos de dispersión.
+
+Estudiaremos cómo se modelizan las tasas de colonización y extinción local, y veremos la enorme utilidad práctica que tiene este marco para gestionar la conectividad del territorio, diseñar redes de espacios protegidos o mitigar el efecto de la fragmentación del paisaje.
+
+### 2.3. El núcleo de la asignatura: ecología de comunidades
+
+Cuando asumimos que las poblaciones no viven solas, sino que comparten el espacio e interactúan continuamente con muchas otras especies, el marco poblacional se queda estrecho y necesitamos trascenderlo. Llegamos así a las comunidades ecológicas, que ocuparán el tramo central y más extenso del curso.
+
+Aquí estudiaremos las reglas de ensamblaje que determinan qué especies conviven en un lugar y analizaremos con detalle las interacciones bióticas: la competencia interespecífica, las dinámicas de depredación y las relaciones de mutualismo. Prestaremos especial atención a la biodiversidad, pasando de la mera noción intuitiva de «número de especies» a su cuantificación matemática formal y a su representación cartográfica. Finalmente, cerraremos este bloque con la teoría de biogeografía de islas y su aplicación directa a los parches o fragmentos de hábitat en ecosistemas terrestres.
+
+### 2.4. El funcionamiento integrado: ecología de ecosistemas
+
+Una vez entendidas las piezas y sus interacciones biológicas, daremos el salto hacia nuestro objeto final de estudio: los ecosistemas. Aquí el foco ya no se sitúa en los organismos aislados, sino en los flujos globales de energía y materia.
+
+Abordaremos el concepto clave de **propiedad emergente**: atributos que manifiesta el sistema en su conjunto y que no se encuentran en los componentes individuales tomados por separado.
+
+Analizaremos la producción primaria bruta y neta —incluyendo su estimación mediante herramientas de teledetección satelital—, la producción secundaria, la descomposición de la materia orgánica y las dinámicas temporales como la sucesión ecológica, introduciendo de forma preliminar la noción de servicios ecosistémicos.
+
+### 2.5. La escala planetaria: biosfera y cambio global
+
+El tramo final del curso nos llevará a la escala ecológica más amplia: la biosfera. En este nivel abordaremos los ciclos biogeoquímicos globales (carbono, nitrógeno, fósforo, agua) en estrecha relación con los procesos microbiológicos y geoquímicos que los sustentan.
+
+Revisaremos también la hipótesis de Gaia, que describe a la Tierra como un sistema global capaz de autorregular sus condiciones de habitabilidad.
+
+Concluiremos reflexionando sobre el cambio global, el papel de las actividades humanas en el Antropoceno y el enfoque de los sistemas socioecológicos, dejando abierto el puente natural hacia la gestión del territorio.
+
+### 2.6. La dimensión práctica paralela
+
+Todo este andamiaje conceptual no se quedará en la teoría; discurrirá en paralelo a tres actividades prácticas continuadas:
+
+1. **El ensayo del microcosmos (el experimento del bote):** El montaje de un sistema cerrado a microescala que nos servirá de banco de pruebas tangible para confrontar las hipótesis sobre flujos, equilibrio y colapso que iremos discutiendo en teoría.
+2. **El proyecto de caracterización de Sierra Nevada:** Un trabajo monográfico y aplicado donde analizaremos tipos de ecosistemas reales integrando herramientas de análisis espacial y teledetección.
+3. **El manejo instrumental de la información:** Sesiones dedicadas al acceso riguroso a literatura científica contrastada y al uso crítico de herramientas computacionales e inteligencia artificial en la práctica ecológica.
+
+
+
 ## 3 Breve salida al césped central del campus
+
 Después de explicar el plan docente salimos brevemente al campo de césped que hay en la parte central del campus de Rabanales. Allí tratamos de hacer una interpretación con la mirada de la ecología. Todavía no tenemos unas gafas potentes, pero nos sirven para probarnos a nosotros mismos.
 
 El objetivo de esta  salida al césped del campus no era evaluar vuestros conocimientos, sino hacer una primera calibración: comprobar cómo de graduadas tenéis las gafas conceptuales de la ecología al iniciar el curso.
@@ -147,7 +198,7 @@ Para apoyar la información anterior sobre la historia de la ecología, en el si
 
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/archive/refs/tags/2025_2026.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/archive/refs/tags/2026_2027.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
 
