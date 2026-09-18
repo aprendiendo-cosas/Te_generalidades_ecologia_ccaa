@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **_Duración_**: 2 horas (1 en casa y 1 en clase)
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/2025_2026/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/2026_2027/imagenes/portada.png)
 
 [TOC]
 
@@ -37,7 +37,7 @@ Para avanzar, utilizaremos una dinámica de integración progresiva: empezaremos
 
 Para cumplir los objetivos que nos planteamos, empezaremos estudiando las poblaciones ecológicas. Este primer nivel implica comprender sus propiedades o descriptores más importantes: la densidad, la distribución en el espacio, las tasas de natalidad y mortalidad, y la estructura de edades. Analizaremos cómo crecen a través de modelos matemáticos (tanto exponencial como logístico) y veremos cómo estos conceptos se trasladan a problemas reales, como la asignación rigurosa de categorías de amenaza a especies en peligro.
 
-A renglón seguido, abordaremos la competencia intraespecífica y las dinámicas dependientes de la densidad. Esto nos llevará a entender las bases biológicas de la explotación sostenible de biomasa: cómo podemos extraer individuos de una población (en pesca, caza, agricultura o aprovechamiento forestal) mediante modelos como el rendimiento máximo sostenible sin comprometer su persistencia.
+A continuación, abordaremos la competencia intraespecífica y las dinámicas dependientes de la densidad. Esto nos llevará a entender las bases biológicas de la explotación sostenible de biomasa: cómo podemos extraer individuos de una población (en pesca, caza, agricultura o aprovechamiento forestal) mediante modelos como el rendimiento máximo sostenible sin comprometer su persistencia.
 
 ### 2.2. El espacio entra en juego: metapoblaciones
 
@@ -166,14 +166,15 @@ En ecología terrestre, el suelo no es un mero soporte físico inerte ni se estu
 
 Resulta interesante estudiar la historia de nuestra disciplina. No solo por conocer cómo ha evolucionado a lo largo del tiempo. También es útil porque en nuestra asignatura copiaremos el avance de esta ciencia a lo largo de la historia. De alguna forma, nuestro proceso de aprendizaje individual repite la forma en la que los humanos aprendimos esta disciplina.
 
-+ [Mapa mental](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/raw/2025_2026/presentacion/historia_ecologia.xmind) que muestra algunos hitos importantes en la historia de la ecología. Durante la descripción de esta historia se va poniendo de manifiesto cómo van surgiendo los distintos conceptos y cómo unos van integrando y trascendiendo a los anteriores. Observamos cómo a lo largo de la historia se han realizado los avances científicos con un esquema parecido al que seguiremos en la asignatura. Es decir, en este curso "copiaremos" el proceso por el cual los seres humanos han ido construyendo la ciencia de la ecología. El mapa mental se abre con el software [xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación o [aquí](https://rawcdn.githack.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/2025_2026/presentacion/historia_ecologia.html) en una página externa:
+Este [mapa mental](https://github.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/raw/2026_2027/presentacion/historia_ecologia.xmind)  muestra algunos hitos importantes en la historia de la ecología. Durante la descripción de esta historia se va poniendo de manifiesto cómo van surgiendo los distintos conceptos y cómo unos van integrando y trascendiendo a los anteriores. Observamos cómo a lo largo de la historia se han realizado los avances científicos con un esquema parecido al que seguiremos en la asignatura. Es decir, en este curso "copiaremos" el proceso por el cual los seres humanos han ido construyendo la ciencia de la ecología. El mapa mental se abre con el software [xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación o [aquí](https://rawcdn.githack.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/2026_2027/presentacion/historia_ecologia.html) en una página externa:
 
-  
+
 
 <iframe
-  src="https://raw.githack.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/2025_2026/presentacion/historia_ecologia.html"
+  src="https://raw.githack.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/2026_2027/presentacion/historia_ecologia.html"
   style="width:100%; height:450px;"
 ></iframe>
+
 
 
 Si te gusta la historia de la ecología, [aquí](https://esajournals.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)2327-6096(CAT)Collections(VI)CollectionsBulletin) tienes mucho material para aprender más. 
@@ -182,9 +183,9 @@ Si te gusta la historia de la ecología, [aquí](https://esajournals.onlinelibra
 
 + Por último, aquí tenéis dos artículos científicos que describen algunos de los principales retos a los que se enfrenta la ecología en el siglo XXI:
 
-  + [Ecological science and sustainability for the 21st century. Palmer, M. et al. 2005](https://github.com/aprendiendo-cosas/generalidades_ecologia_ccaa/raw/2025_2026/biblio/Palmer_et_al-2005-Frontiers_in_Ecology_and_the_Environment.pdf)
+  + [Ecological science and sustainability for the 21st century. Palmer, M. et al. 2005](https://github.com/aprendiendo-cosas/generalidades_ecologia_ccaa/raw/2026_2027/biblio/Palmer_et_al-2005-Frontiers_in_Ecology_and_the_Environment.pdf)
 
-  + [Aquí y ahora: una llamada al compromiso y la acción. Zamora. R. 2005](https://github.com/aprendiendo-cosas/generalidades_ecologia_ccaa/raw/2025_2026/biblio/zamora_2005.pdf)
+  + [Aquí y ahora: una llamada al compromiso y la acción. Zamora. R. 2005](https://github.com/aprendiendo-cosas/generalidades_ecologia_ccaa/raw/2026_2027/biblio/zamora_2005.pdf)
 
 
 
