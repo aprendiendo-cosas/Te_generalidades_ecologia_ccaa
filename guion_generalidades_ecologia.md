@@ -30,9 +30,86 @@ En primer lugar describimos el plan docente que seguiremos en la asignatura. Se 
 ## 3 Breve salida al césped central del campus
 Después de explicar el plan docente salimos brevemente al campo de césped que hay en la parte central del campus de Rabanales. Allí tratamos de hacer una interpretación con la mirada de la ecología. Todavía no tenemos unas gafas potentes, pero nos sirven para probarnos a nosotros mismos.
 
-Esta parte se completará después de hacer la actividad...
+El objetivo de esta  salida al césped del campus no era evaluar vuestros conocimientos, sino hacer una primera calibración: comprobar cómo de graduadas tenéis las gafas conceptuales de la ecología al iniciar el curso.
+
+Muchos de los conceptos que abordaremos os resultan familiares de manera intuitiva, pero la formación universitaria exige pasar de la intuición cotidiana a definiciones formales, operativas y rigurosas. Guardad este registro: el propósito pedagógico es que, al finalizar el cuatrimestre y antes del examen, volváis a formularos exactamente estas mismas preguntas y comparéis cómo han cambiado vuestras respuestas.
+
+### 3.1 La pregunta inicial: ¿Qué vemos aquí?
+
+>Teniendo en cuenta de qué va esta asignatura y que nuestro objetivo es entender cómo funcionan los ecosistemas, os pregunto: ¿qué vemos aquí? Cuando miráis este espacio con la mirada de la ecología, ¿qué es lo que veis?
+
+#### 3.1.1 Vuestras respuestas
+
+- La primera respuesta inmediata fue: *«Césped y palmeras»*.
+- Al indagar sobre la identidad botánica del césped (tras recordar el paso algo traumático por la memorización de familias en cursos anteriores), se identificó correctamente su familia: *Gramíneas* (Poaceae).
+
+#### 3.1.2 Mi matización conceptual
+
+Identificar «césped y palmeras» es descriptivamente correcto e impecable, pero no es una mirada ecológica: es una mirada botánica. Nombrar especies o familias cataloga los elementos biológicos presentes, pero la ecología no se detiene en el inventario taxonómico; busca comprender las relaciones, los flujos y las dinámicas funcionales del sistema.
 
 
+### 3.2. La pregunta de profundización
+
+> Si intentamos adoptar esa mirada ecológica, ¿cómo describiríais lo que tenemos delante? ¿Qué tipo de ecosistema sería este?
+
+#### 3.2.1 Vuestras respuestas
+
+- Se señaló primero la escala física: se trata de un ecosistema *pequeñito* si se compara con los grandes biomas del planeta.
+- A partir de esa acotación espacial, surgió otra idea clave: es un sistema con *poca biodiversidad en comparación con otro tipo de vegetación*.
+- Para justificar esa baja diversidad, recordasteis el manejo alternativo de una parcela cercana del campus donde se había favorecido una vegetación más variada. Mencionasteis que allí aparecían más insectos, lo cual atraía a otros organismos consumidores, generando *algo más complejo, como una cadena trófica más elaborada*.
+
+#### 3.2.2 Mi matización conceptual
+
+En esta intervención surgieron de forma intuitiva conceptos fundamentales: **biodiversidad**, **red trófica** y **depredación** (organismos que consumen a otros).
+
+Sin embargo, al intentar explicarlos afloró la dificultad para definirlos formalmente:
+
+1. **La diversidad como propiedad transversal:** Solemos identificar diversidad simplemente con «número de especies». Sin embargo, es un concepto estructural clave que va mucho más allá de la biología; estructura sistemas ecológicos, dinámicas sociales, territoriales y de gestión.
+2. **De la teoría al manejo del territorio:** El ejemplo de la parcela vecina muestra cómo las decisiones humanas de manejo alteran directamente la intensidad con la que se manifiestan variables ecológicas como la diversidad o la conectividad trófica.
+
+### 3.3. Estructura de la red y persistencia: el valor funcional de la heterogeneidad
+
+> Constatamos que este césped es un sistema monoespecífico o muy poco diverso (césped, palmera y poco más). ¿Qué efecto tiene eso sobre el funcionamiento del sistema? ¿Qué impacto real tiene la diversidad en el comportamiento de un ecosistema?
+
+#### 3.3.1 Vuestras respuestas
+
+- Planteasteis que la baja diversidad *«puede afectar a la cadena trófica de los animales que están ahí»*, argumentando que al haber más especies la red cambia, albergando más interacciones, más microorganismos y más relaciones.
+- Al preguntar hacia dónde conduce una red con interacciones más densas, respondisteis primero que genera *«más biodiversidad»* y que permite *«relacionarse entre sí»*.
+- Tras corregir el argumento circular, apuntasteis a una propiedad temporal: permite **«que el sistema perdure en el tiempo»**.
+
+### 3.4 El experimento mental planteado
+
+> ¿Qué pasaría si introducimos aquí dos individuos herbívoros especialistas en comer césped? ¿Y qué ocurriría si los introdujésemos en la parcela seca vecina, con vegetación heterogénea, asumiendo que no pueden desplazarse?
+
+#### 3.4.1 Vuestras respuestas
+
+En el césped homogéneo consumirían todo el recurso hasta agotarlo y colapsar el sistema. En la zona heterogénea, al haber múltiples especies vegetales y refugios, el impacto del herbívoro se diluye o encuentra barreras, y la vegetación resiste mejor.
+
+#### 3.4.2 Mi matización conceptual
+
+- **Densidad de la red e interacciones:** La diversidad no es un adorno numérico; determina la **densidad del tejido de interacciones tróficas**.
+- **Resistencia a las perturbaciones:** Cuanto más densa y heterogénea es la red, mayor es la capacidad del sistema para amortiguar impactos y persistir ante perturbaciones. La homogeneidad (el monocultivo de césped) maximiza la vulnerabilidad.
+- **Isomorfismo con sistemas complejos:** Esta relación entre heterogeneidad y resiliencia no es exclusiva de la biología. En sistemas sociales o humanos, un colectivo homogéneo carece de redundancia funcional ante situaciones críticas; un grupo diverso en competencias, lenguajes y estrategias responde con mayor adaptabilidad frente a crisis imprevistas.
+
+### 3.5. Ecología y evolución: la dimensión temporal
+
+#### 3.5.1 La objeción planteada
+
+Durante el debate surgió una duda sobre la supervivencia de los organismos planteados en el ejemplo. Si un animal se come todo el césped: *«Eso es evolución, ¿no? Sobrevive el más adaptado»*. Se argumentó que, ante la llegada del herbívoro, la selección natural resolvería el problema haciendo que sobreviviese aquel individuo que portara una mutación ventajosa (por ejemplo, volverse no digestible).
+
+#### 3.5.2 Mi matización conceptual
+
+Confundir la respuesta ecológica con la evolutiva es habitual al comenzar a estudiar estas disciplinas. La distinción crítica radica en la **escala temporal**:
+
+- **Escala evolutiva:** Opera a largo plazo, a lo largo de generaciones, seleccionando cambios en las frecuencias génicas y adaptaciones ante presiones de selección.
+- **Escala ecológica:** Opera en el corto y medio plazo, en el tiempo de vida de los organismos y de la comunidad actual. Si el herbívoro agota el césped en semanas, el sistema colapsa ecológicamente antes de que pueda operar cualquier mecanismo adaptativo por selección natural.
+- **La proyección temporal:** La ecología y la evolución se encuentran en el dominio del tiempo; muchos de los patrones y procesos ecológicos que analizaremos constituyen el escenario en el que, proyectado en el tiempo profundo, actúa la evolución.
+
+### 3.6. Una ausencia clave: el suelo
+
+Para cerrar la sesión, conviene señalar un componente estructural que no mencionasteis durante la visita, pero que será un pilar analítico indispensable a lo largo del curso: **el suelo**.
+
+En ecología terrestre, el suelo no es un mero soporte físico inerte ni se estudia únicamente desde la perspectiva físico-química de la edafología. Es un subsistema biológicamente activo, heterogéneo y determinante para el reciclaje de nutrientes, la retención hídrica y el mantenimiento de las redes tróficas subterráneas.
 
 ## 4 Historia de la ecología
 
